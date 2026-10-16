@@ -1,5 +1,7 @@
 <h1 align="center">COOLBAO｜消防数图工作流</h1>
 
+<h3 align="center"><a href="http://119.91.127.85:8000/">🚀 在线演示 · 体验 COOLBAO →</a></h3>
+
 <p align="center">
   <strong>典型小图：人工约 10 分钟 → 软件约 15 秒初步出数。<br>
   典型大图：人工约 20 分钟 → 软件约 26 秒初步出数。</strong>
@@ -28,6 +30,7 @@
 </p>
 
 <p align="center">
+  <a href="http://119.91.127.85:8000/">在线演示</a> ·
   <a href="#操作演示">操作演示</a> ·
   <a href="#我的产品工作">我的产品工作</a> ·
   <a href="#样本结果">样本结果</a> ·
